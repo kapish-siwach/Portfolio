@@ -1,0 +1,32 @@
+.my-6rem{
+    margin: 6rem 0rem !important;
+  }
+
+img{
+    filter: drop-shadow(10px 0px 5px rgba(0, 0, 0, 0.5))
+}
+img:hover{
+    filter:drop-shadow(10px 5px 10px rgba(12,32,43,01));
+    cursor:pointer;
+}
+
+.btn-home{
+    border: 1px solid black;
+}
+.btn-home:hover{
+    border: 1px solid #4d3c3c;
+    background-color: rgba(33, 173, 45, 0.671);
+    color: white;
+}
+.wrapper{
+    border: 1px solid #fff;
+}
+
+#About article:hover{
+    box-shadow: 6px 5px 5px rgba(12,32,43,0.5) ;
+   
+}
+
+#Skills article:hover{
+    filter: drop-shadow(5px 5px 4px rgba(22,22,33,0.4));
+}
