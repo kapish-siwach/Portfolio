@@ -16,6 +16,10 @@
     border-radius: 12px;
 }
 
-.btn-group{
-    background-color: #e2dfdfaf;
+.btn-cont:hover{
+    background-color: #F1F1F1;
+}
+
+.fot-btn:hover{
+    content: 'K hAll Hh';
 }
